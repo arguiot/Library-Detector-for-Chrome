@@ -641,6 +641,18 @@ var d41d8cd98f00b204e9800998ecf8427e_LibraryDetectorTests = {
            return false;
        }
     },
+    
+    'ProType': {
+        icon: 'protype.js',
+        url: 'https://protype.js.org',
+        npm: 'protype.js',
+        test: function(win) {
+            if (win.ProType) {
+                return {version: new ProType().version || UNKNOWN_VERSION}
+            }
+            return false
+        }
+    },
 
     'CamanJS': {
         icon: 'camanjs',
