@@ -74,6 +74,7 @@ supports:
 - [Polymer](https://www.polymer-project.org/)
 - [Processing.js](http://processingjs.org/)
 - [Prototype](http://prototypejs.org/)
+- [ProType](https://protype.js.org)
 - [Pusher](https://pusher.com/docs/javascript_quick_start)
 - [Qooxdoo](http://www.qooxdoo.org/)
 - [Raphaël](http://raphaeljs.com/)
@@ -141,6 +142,7 @@ supports:
 - [Emmanuel Krebs](https://github.com/e-krebs)
 - [Patrick Hulce](https://github.com/patrickhulce)
 - [Ajaykumar Prathap](https://github.com/ajay2507)
+- [Arthur Guiot](https://github.com/arguiot)
 
 ### Inspiration
 Library detection class inspired by [Paul Bakaus'](https://paulbakaus.com/) [Library Detector for Firefox](https://addons.mozilla.org/en-us/firefox/addon/library-detector/)
